@@ -1,53 +1,5 @@
 [
     {
-        "number": 4424,
-        "author": "streamnativebot",
-        "date_created": "2024-05-29T13:23:57Z",
-        "time_to_merge": 1205,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 4425,
-        "author": "streamnativebot",
-        "date_created": "2024-05-29T14:02:34Z",
-        "time_to_merge": 1217,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 4426,
-        "author": "instanacd",
-        "date_created": "2024-05-29T14:06:23Z",
-        "time_to_merge": 3408,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 4427,
-        "author": "lleshchi",
-        "date_created": "2024-05-29T16:06:36Z",
-        "time_to_merge": 3878,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 4428,
-        "author": "phantomjinx",
-        "date_created": "2024-05-29T18:09:06Z",
-        "time_to_merge": 559,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
-        "number": 4429,
-        "author": "quay-devel",
-        "date_created": "2024-05-30T05:58:21Z",
-        "time_to_merge": 2157,
-        "authorizer": "bot",
-        "interaction": "none"
-    },
-    {
         "number": 4430,
         "author": "streamnativebot",
         "date_created": "2024-05-30T06:23:59Z",
@@ -318,6 +270,14 @@
         "time_to_merge": 1117549,
         "authorizer": "maintainer",
         "interaction": "maintainer set authorized-changes"
+    },
+    {
+        "number": 4467,
+        "author": "amisstea",
+        "date_created": "2024-06-06T20:22:05Z",
+        "time_to_merge": 1279442,
+        "authorizer": "bot",
+        "interaction": "none"
     },
     {
         "number": 4468,
@@ -796,6 +756,46 @@
         "author": "vmuzikar",
         "date_created": "2024-06-20T15:17:16Z",
         "time_to_merge": 1749,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 4532,
+        "author": "quay-devel",
+        "date_created": "2024-06-21T06:00:03Z",
+        "time_to_merge": 2143,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 4533,
+        "author": "awx-auto",
+        "date_created": "2024-06-21T13:23:57Z",
+        "time_to_merge": 1214,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 4534,
+        "author": "konveyor-release-bot",
+        "date_created": "2024-06-22T01:59:15Z",
+        "time_to_merge": 884,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 4535,
+        "author": "quay-devel",
+        "date_created": "2024-06-22T06:00:04Z",
+        "time_to_merge": 2131,
+        "authorizer": "bot",
+        "interaction": "none"
+    },
+    {
+        "number": 4536,
+        "author": "stefanprodan",
+        "date_created": "2024-06-22T11:02:22Z",
+        "time_to_merge": 517,
         "authorizer": "bot",
         "interaction": "none"
     }
